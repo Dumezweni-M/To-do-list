@@ -1,0 +1,42 @@
+.updateComtroller{
+    display: flex;
+    flex-direction: row;
+}
+
+.app{
+    width: 60vw;
+    height: 50vh;
+    color: rgb(197, 205, 240);
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+}
+.input-header{
+    /* border: 5px solid red; */
+    padding: 10px;
+}
+.to-do-input{
+    /* border: 5px solid blue; */
+}
+.to-do-list{
+    /* border: 5px solid green; */
+}
+h1{}
+
+#item{
+    /* border: 4px solid salmon; */
+}
+#date{
+    /* border: 4px solid rgb(144, 0, 146); */
+}
+
+textarea{
+    background-color: none;
+}
+
+button{
+ border-radius: 5px;
+ background-color: white;
+ padding: 0.4rem;
+ text-align: center;
+ margin-left: 1rem;   
+}
